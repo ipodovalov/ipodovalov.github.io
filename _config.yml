@@ -1,7 +1,7 @@
 # Site settings
 title: Ivan Podovalov CV 
 description: Podovalov's CV
-favicon: /assets/img/avatar.JPG
+favicon: /assets/img/image.jpg
 baseurl: https://ipodovalov.github.io/
 url: https://ipodovalov.github.io/
 rss_url: /pages/atom.xml
@@ -23,7 +23,7 @@ author:
   github: ipodovalov
   linkedin: ipodovalov
   twitter: ipodovalov
-  gavatar: /assets/img/avatar.JPG
+  gavatar: /assets/img/image.jpg
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
