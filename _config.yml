@@ -23,7 +23,7 @@ author:
   github: ipodovalov
   linkedin: ipodovalov
   twitter: ipodovalov
-  gavatar: assets/img/avatar.png
+  gavatar: /assets/img/avatar.png
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
