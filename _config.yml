@@ -1,5 +1,5 @@
 # Site settings
-title: Dong Liang's CV 
+title: Ivan Podovalov CV 
 description: ddbullfrog's CV
 favicon: /assets/img/avatar.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
@@ -14,16 +14,16 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Ivan Podovalov
+  title: C/C++/Linux/Embedded Developer
+  address: Moscow region, Russia
+  email: ipodovalov@gmail.com
+  link: https://ipodovalov.github.io
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
+  github: ipodovalov
+  linkedin: ipodovalov
+  twitter: ipodovalov
+  gavatar: /resumecard/assets/img/avatar.png
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
