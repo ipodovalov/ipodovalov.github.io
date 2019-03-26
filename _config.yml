@@ -2,8 +2,8 @@
 title: Ivan Podovalov CV 
 description: Podovalov's CV
 favicon: /assets/img/avatar.png
-baseurl: https://ipodovalov.github.io/resumecard
-url: https://ipodovalov.github.io/resumecard
+baseurl: https://ipodovalov.github.io/
+url: https://ipodovalov.github.io/
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -23,7 +23,7 @@ author:
   github: ipodovalov
   linkedin: ipodovalov
   twitter: ipodovalov
-  gavatar: /resumecard/assets/img/avatar.png
+  gavatar: /assets/img/avatar.png
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
