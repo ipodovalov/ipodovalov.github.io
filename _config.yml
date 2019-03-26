@@ -59,18 +59,18 @@ author:
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   languages:
     - language1:
-      name: Chinese
+      name: Russian
       proficiency: Native
     - language2:
       name: English
-      proficiency: Professional
+      proficiency: Pre Intermediate
     - language3:
-      name: Japanese
+      name: Hebrew
       proficiency: Limit
   programmingSkills:
     - skill1:
       name: C
-      percentage: 80%
+      percentage: 90%
     - skill2:
       name: C++
       percentage: 60%
@@ -82,4 +82,4 @@ author:
       percentage: 50%
     - skill5:
       name: Java/Java EE
-      percentage: 30%
+      percentage: 20%
