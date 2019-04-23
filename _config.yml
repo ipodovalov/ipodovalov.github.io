@@ -28,35 +28,35 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
+      company: VNIKTI, Center for Scientific Research in Transport Engineering
+      location: Kolomna, Moscow region, Russia
+      title: C/C++/Linux/Embedded Developer
       started: 2014
       duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: Participate in full software development cycle according to customer requests. Review code others developers and project files. Developing, alteration and testing embedded firmware for different devices.
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Rostelecom
+      location: Moscow, Russia
+      title: Engineer
+      started: 2009
+      duration: (2011 - 2014)
+      description: Writing scripts in Bash for work optimization process. 
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
+      company: SimSim 
+      location: Kolomna, Moscow region, Russia
+      title: System administrator, Network administrator
       started: 2009
       duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: Management of infrastructure servers and services: Zabbix, DHCP. Support of field engineers during installation and maintenance of remote servers.
   educationHistory:
-    - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
+    - education1: 
+      organization: Moscow Polytechnic University
+      location: Moscow, Russia
       degree: Bachelor
       major: Software Engineering
       started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      duration: (2005 - 2010)
+      description: 
   languages:
     - language1:
       name: Russian
@@ -79,7 +79,7 @@ author:
       percentage: 90%
     - skill4:
       name: Python
-      percentage: 50%
+      percentage: 40%
     - skill5:
       name: Java/Java EE
       percentage: 20%
